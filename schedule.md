@@ -12,9 +12,9 @@ You may encounter some symbols. Here is what they mean: <br>
 </div>
 
 ## Unit 1: Getting Started
-  1. [Setting up the Environment]({{site.baseurl}}/units/01/01/)
-  1. [Terminal and Git]({{site.baseurl}}/units/01/02/)
+  1. [Navigating Your Machine]({{site.baseurl}}/units/01/01/)
+  1. [Setting up the Environment]({{site.baseurl}}/units/01/02/)
      1. QUIZ
-  1. [Python]({{site.baseurl}}/units/01/03/)
+  1. [A Taste of Scala]({{site.baseurl}}/units/01/03/)
   1. [Lab 1]({{site.baseurl}}/units/01/04/)
 
