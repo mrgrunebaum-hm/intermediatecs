@@ -46,10 +46,10 @@ def isOdd = ???
 def square = ???
 
 /*
-  6. Write a function lessThan10 which returns
+  6. Write a function sumLessThan10 which returns
   whether @a + @b is strictly less than 10.
 */
-def lessThan10 = ???
+def sumLessThan10 = ???
 
 /*
   7. e = if (condition) e1 else e2
@@ -58,7 +58,7 @@ def lessThan10 = ???
   You are allowed to chain these as follows:
   e = if (condition) e1 else if (condition2) e2 else e3
 
-  Complete the positiveHello function.
+  Complete the positiveSquareHello function.
 */
 val num = 7
 if (num > 1) "Number > 1" else "Number <= 1"
