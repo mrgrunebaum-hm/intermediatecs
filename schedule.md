@@ -16,5 +16,4 @@ You may encounter some symbols. Here is what they mean: <br>
   1. [Setting up the Environment]({{site.baseurl}}/units/01/02/)
      1. QUIZ
   1. [A Taste of Scala]({{site.baseurl}}/units/01/03/)
-  1. [Lab 1]({{site.baseurl}}/units/01/04/)
 
