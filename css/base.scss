@@ -81,6 +81,14 @@ li li li {
   list-style-type: lower-roman;
 }
 
+code {
+  font-family: 'Fira Code';
+  color: #fff;
+  background: rgba($color: #000000, $alpha: 0.7);
+  padding: 0 2px;
+  border-radius: 2px;
+}
+
 /* --- Masthead --- */
 .Masthead {
   text-align: center;
