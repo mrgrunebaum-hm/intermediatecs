@@ -11,9 +11,11 @@ You may encounter some symbols. Here is what they mean: <br>
 ▲: additional links to check out
 </div>
 
-## Unit 1: Getting Started
+## Getting Started
   1. [Navigating Your Machine]({{site.baseurl}}/units/01/01/)
   1. [Setting up the Environment]({{site.baseurl}}/units/01/02/)
      1. QUIZ
   1. [A Taste of Scala]({{site.baseurl}}/units/01/03/)
 
+## Lisp FAQ
+  1. [Lisp for Intermediate Programming]({{site.baseurl}}/units/02/01/)
